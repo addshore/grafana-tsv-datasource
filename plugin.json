@@ -1,0 +1,13 @@
+{
+  "pluginType": "datasource",
+  "name": "TSV",
+
+  "type": "tsv",
+  "serviceName": "TsvDatasource",
+
+  "module": "app/plugins/datasource/tsv/datasource",
+
+  "partials": {},
+
+  "metrics": true
+}
